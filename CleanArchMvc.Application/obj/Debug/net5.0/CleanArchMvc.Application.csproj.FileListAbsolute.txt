@@ -1,0 +1,15 @@
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\ref\CleanArchMvc.Application.dll
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csprojAssemblyReference.cache
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
+C:\Users\lucas.marcondes\Documents\Cursos\Curso Clean Arq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
